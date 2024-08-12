@@ -4,4 +4,4 @@ tech : react tailwind
 
 [live](https://aksamedia-frontend.carroo.my.id/login)
 
-[portfolio of mine](carroo.me)
+[portfolio of mine](https://carroo.me)
