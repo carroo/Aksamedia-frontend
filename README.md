@@ -1,4 +1,4 @@
-# Test Case Front End MSIB 7 Aksamedia x Catur Hendra
+# Test Case FrontEnd (tugas 1) MSIB 7 Aksamedia x Catur Hendra
 
 tech : react tailwind
 
